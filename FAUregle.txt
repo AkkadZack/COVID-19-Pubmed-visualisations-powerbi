@@ -1,0 +1,197 @@
+PMID,AU,FAU,AD 
+PMID- 32141569|FAU - Kannan, S|AU  - Kannan S|AD  - School of Medicine, The Maldives National University, Male', Maldives.         Kannan.subbaram@mnu.edu.mv.  
+
+PMID- 32141569|FAU - Shaik Syed Ali, P|AU  - Shaik Syed Ali P|AD- Null 
+PMID- 32141569|FAU - Sheeza, A|AU  - Sheeza A|AD- Null 
+PMID- 32141569|FAU - Hemalatha, K|AU  - Hemalatha K|AD - Null
+PMID- 32389849|FAU - Zhou, Meng-Yao|AU  - Zhou MY|AD  - Department of Pediatric Infection and Gastroenterology, Chengdu Women's and         Children's Central Hospital, School of Medicine, University of Electronic Science         and Technology, Chengdu, Sichuan, P.R. China.  
+
+PMID- 32389849|FAU - Xie, Xiao-Li|AU  - Xie XL|AD  - Department of Pediatric Infection and Gastroenterology, Chengdu Women's and         Children's Central Hospital, School of Medicine, University of Electronic Science         and Technology, Chengdu, Sichuan, P.R. China. Electronic address: xxlilye@qq.com.  
+
+PMID- 32389849|FAU - Peng, Yong-Gang|AU  - Peng YG|AD  - Department of Anesthesiology, Department of Anesthesiology, University of Florida         College of Medicine, Gainesville, Fl, USA.  
+
+PMID- 32389849|FAU - Wu, Meng-Jun|AU  - Wu MJ|AD  - Department of Anesthesiology, Chengdu Women's and Children's Central Hospital,         School of Medicine, University of Electronic Science and Technology, Chengdu,         Sichuan, P.R. China.  
+
+PMID- 32389849|FAU - Deng, Xiao-Zhi|AU  - Deng XZ|AD  - Department of Pediatric Infection and Gastroenterology, Chengdu Women's and         Children's Central Hospital, School of Medicine, University of Electronic Science         and Technology, Chengdu, Sichuan, P.R. China.  
+
+PMID- 32389849|FAU - Wu, Ying|AU  - Wu Y|AD  - Department of Pediatric Pneumology, Chengdu Women's and Children's Central Hospital,         School of Medicine, University of Electronic Science and Technology, Chengdu,         Sichuan, P.R. China.  
+
+PMID- 32389849|FAU - Xiong, Li-Jing|AU  - Xiong LJ|AD  - Department of Pediatric Infection and Gastroenterology, Chengdu Women's and         Children's Central Hospital, School of Medicine, University of Electronic Science         and Technology, Chengdu, Sichuan, P.R. China.  
+
+PMID- 32389849|FAU - Shang, Li-Hong|AU  - Shang LH|AD  - Department of Pediatric Infection and Gastroenterology, Chengdu Women's and         Children's Central Hospital, School of Medicine, University of Electronic Science         and Technology, Chengdu, Sichuan, P.R. China.  PMID- 32774178
+
+PMID- 32389849|FAU - Esakandari, Hanie|AU  - Esakandari H|AD  - Department of Biology, Science and research branch, Islamic Azad University of         Tehran, Tehran, Iran. GRID: grid.467756.1. ISNI: 0000 0004 0494 2900  
+
+PMID- 32389849|FAU - Nabi-Afjadi, Mohsen|AU  - Nabi-Afjadi M|AD  - Department of Biochemistry, Faculty of biological science, Tarbiat Modares         University, Tehran, Iran. GRID: grid.412266.5. ISNI: 0000 0001 1781 3962  
+
+PMID- 32389849|FAU - Fakkari-Afjadi, Javad|AU  - Fakkari-Afjadi J|AD  - Department of biology, Ashkezar branch, Islamic Azad University of Yazd, Ashkezar,         Yazd Iran. GRID: grid.466829.7  
+
+PMID- 32389849|FAU - Farahmandian, Navid|AU  - Farahmandian N|AD  - Department of Biochemistry, Faculty of Medicine, Iran University of Medical         Sciences, P.O. Box: 1449614525, Tehran, Iran. GRID: grid.411746.1. ISNI: 0000 0004         4911 7066  
+
+PMID- 32389849|FAU - Miresmaeili, Seyed-Mohsen|AU  - Miresmaeili SM|AD  - Department of Biology, Faculty of Sciences, Yazd University, Yazd, Iran. GRID:         grid.413021.5. ISNI: 0000 0004 0612 8240  
+
+PMID- 32389849|FAU - Bahreini, Elham|AU  - Bahreini E|AD  - Department of biology, Ashkezar branch, Islamic Azad University of Yazd, Ashkezar,         Yazd Iran. GRID: grid.466829.7  PMID- 32348588
+
+PMID- 32389849|FAU - Pascarella, Giuseppe|AU  - Pascarella G|AD  - Unit of Anaesthesia, Intensive Care and Pain Management, Department of Medicine,         Campus Bio Medico University and Teaching Hospital, Rome, Italy.  
+
+PMID- 32389849|FAU - Strumia, Alessandro|AU  - Strumia A|AD  - Unit of Anaesthesia, Intensive Care and Pain Management, Department of Medicine,         Campus Bio Medico University and Teaching Hospital, Rome, Italy.  
+
+PMID- 32389849|FAU - Piliego, Chiara|AU  - Piliego C|AD  - Unit of Anaesthesia, Intensive Care and Pain Management, Department of Medicine,         Campus Bio Medico University and Teaching Hospital, Rome, Italy.  
+
+PMID- 32389849|FAU - Bruno, Federica|AU  - Bruno F|AD  - Unit of Anaesthesia, Intensive Care and Pain Management, Department of Medicine,         Campus Bio Medico University and Teaching Hospital, Rome, Italy.  
+
+PMID- 32389849|FAU - Del Buono, Romualdo|AU  - Del Buono R|AD  - Department of Anaesthesia, Intensive Care and Pain Management, Humanitas Mater         Domini Hospital, Castellanza, Italy.  
+
+PMID- 32389849|FAU - Costa, Fabio|AU  - Costa F|AD  - Unit of Anaesthesia, Intensive Care and Pain Management, Department of Medicine,         Campus Bio Medico University and Teaching Hospital, Rome, Italy.  
+
+PMID- 32389849|FAU - Scarlata, Simone|AU  - Scarlata S|AD  - Geriatrics, Unit of Respiratory Pathophysiology, Campus Bio Medico University and         Teaching Hospital, Rome, Italy.  
+
+PMID- 32389849|FAU - Agrò, Felice Eugenio|AU  - Agrò FE|AD  - Unit of Anaesthesia, Intensive Care and Pain Management, Department of Medicine,         Campus Bio Medico University and Teaching Hospital, Rome, Italy.  PMID- 32744561
+
+PMID- 32389849|FAU - Vellas, C|AU  - Vellas C|AD  - Camille Vellas, INSERM UMR1043 - CNRS UMR5282 Centre de Physiopathologie         Toulouse-Purpan (CPTP), Toulouse, France, vellas.camille@gmail.com.  
+
+PMID- 32389849|FAU - Delobel, P|AU  - Delobel P|AD- Null 
+PMID- 32389849|FAU - de Souto Barreto, P|AU  - de Souto Barreto P|AD- Null 
+PMID- 32389849|FAU - Izopet, J|AU  - Izopet J|AD - Null
+PMID- 32134278|FAU - Shanmugaraj, Balamurugan|AU  - Shanmugaraj B|AD  - Research unit for Plant-produced Pharmaceuticals, Chulalongkorn University, Bangkok,         Thailand.  AD  - Department of Pharmacognosy and Pharmaceutical Botany, Faculty of Pharmaceutical         Sciences, Chulalongkorn University, Bangkok, Thailand.  
+
+PMID- 32134278|FAU - Siriwattananon, Konlavat|AU  - Siriwattananon K|AD  - Research unit for Plant-produced Pharmaceuticals, Chulalongkorn University, Bangkok,         Thailand.  AD  - Department of Pharmacognosy and Pharmaceutical Botany, Faculty of Pharmaceutical         Sciences, Chulalongkorn University, Bangkok, Thailand.  
+
+PMID- 32134278|FAU - Wangkanont, Kittikhun|AU  - Wangkanont K|AD  - Department of Biochemistry, Faculty of Science, Chulalongkorn University, Bangkok,         Thailand.  
+
+PMID- 32134278|FAU - Phoolcharoen, Waranyoo|AU  - Phoolcharoen W|AD  - Research unit for Plant-produced Pharmaceuticals, Chulalongkorn University, Bangkok,         Thailand.  AD  - Department of Pharmacognosy and Pharmaceutical Botany, Faculty of Pharmaceutical         Sciences, Chulalongkorn University, Bangkok, Thailand.  PMID- 32096567
+
+PMID- 32134278|FAU - Sun, Pengfei|AU  - Sun P|AD  - Department of Plastic Surgery, Zibo Central Hospital, Zibo, China.  
+
+PMID- 32134278|FAU - Lu, Xiaosheng|AU  - Lu X|AD  - Department of Plastic Surgery, Affiliated Hospital of Weifang Medical University,         Weifang, China.  
+
+PMID- 32134278|FAU - Xu, Chao|AU  - Xu C|AD  - Department of Plastic Surgery, Zibo Central Hospital, Zibo, China.  
+
+PMID- 32134278|FAU - Sun, Wenjuan|AU  - Sun W|AD  - Department of Medicine, People's Hospital of Boxing, Binzhou, China.  
+
+PMID- 32134278|FAU - Pan, Bo|AU  - Pan B|AD  - Department of Plastic Surgery, Plastic Surgery Hospital, Peking Union Medical         College, Chinese Academy of Medical Sciences, Beijing, China.  PMID- 32147496
+
+PMID- 32134278|FAU - Touret, Franck|AU  - Touret F|AD  - Unité des Virus Emergents, UVE: Aix Marseille Univ, IRD 190, INSERM 1207, IHU         Méditerranée Infection, 13005, Marseille, France. Electronic address:         franck.touret@univ-amu.fr.  
+
+PMID- 32134278|FAU - de Lamballerie, Xavier|AU  - de Lamballerie X|AD  - Unité des Virus Emergents, UVE: Aix Marseille Univ, IRD 190, INSERM 1207, IHU         Méditerranée Infection, 13005, Marseille, France. Electronic address:         xavier.de-lamballerie@univ-amu.fr.  PMID- 32340833
+
+PMID- 32134278|FAU - Harapan, Harapan|AU  - Harapan H|AD  - Medical Research Unit, School of Medicine, Universitas Syiah Kuala, Banda Aceh,         Indonesia; Tropical Disease Centre, School of Medicine, Universitas Syiah Kuala,         Banda Aceh, Indonesia; Department of Microbiology, School of Medicine, Universitas         Syiah Kuala, Banda Aceh, Indonesia. Electronic address: harapan@unsyiah.ac.id.  
+
+PMID- 32134278|FAU - Itoh, Naoya|AU  - Itoh N|AD  - Division of Infectious Diseases, AichiCancer Center Hospital, Chikusa-ku Nagoya,         Japan. Electronic address: itohnaoya0925@ybb.ne.jp.  
+
+PMID- 32134278|FAU - Yufika, Amanda|AU  - Yufika A|AD  - Department of Family Medicine, School of Medicine, Universitas Syiah Kuala, Banda         Aceh, Indonesia. Electronic address: amandayufika@gmail.com.  
+
+PMID- 32134278|FAU - Winardi, Wira|AU  - Winardi W|AD  - Department of Pulmonology and Respiratory Medicine, School of Medicine, Universitas         Syiah Kuala, Banda Aceh, Indonesia. Electronic address: wira.winardi@unsyiah.ac.id.  
+
+PMID- 32134278|FAU - Keam, Synat|AU  - Keam S|AD  - School of Medicine, The University of Western Australia, Perth, Australia.         Electronic address: synat.keam@research.uwa.edu.au.  
+
+PMID- 32134278|FAU - Te, Haypheng|AU  - Te H|AD  - Siem Reap Provincial Health Department, Ministry of Health, Siem Reap, Cambodia.         Electronic address: hayphengte@gmail.com.  
+
+PMID- 32134278|FAU - Megawati, Dewi|AU  - Megawati D|AD  - Department of Microbiology and Parasitology, Faculty of Medicine and Health         Sciences, Warmadewa University, Denpasar, Indonesia; Department of Medical         Microbiology and Immunology, University of California, Davis, CA, USA. Electronic         address: amegawati@ucdavis.edu.  
+
+PMID- 32134278|FAU - Hayati, Zinatul|AU  - Hayati Z|AD  - Medical Research Unit, School of Medicine, Universitas Syiah Kuala, Banda Aceh,         Indonesia; Tropical Disease Centre, School of Medicine, Universitas Syiah Kuala,         Banda Aceh, Indonesia; Department of Microbiology, School of Medicine, Universitas         Syiah Kuala, Banda Aceh, Indonesia; Department of Clinical Microbiology, School of         Medicine, Universitas Syiah Kuala, Banda Aceh, Indonesia. Electronic address:         hayatikarmil@unsyiah.ac.id.  
+
+PMID- 32134278|FAU - Wagner, Abram L|AU  - Wagner AL|AD  - Department of Epidemiology, University of Michigan, Ann Arbor, Michigan, MI 48109,         USA. Electronic address: awag@umich.edu.  
+
+PMID- 32134278|FAU - Mudatsir, Mudatsir|AU  - Mudatsir M|AD  - Medical Research Unit, School of Medicine, Universitas Syiah Kuala, Banda Aceh,         Indonesia; Tropical Disease Centre, School of Medicine, Universitas Syiah Kuala,         Banda Aceh, Indonesia; Department of Microbiology, School of Medicine, Universitas         Syiah Kuala, Banda Aceh, Indonesia. Electronic address: mudatsir@unsyiah.ac.id.  PMID- 32190290
+
+PMID- 32134278|FAU - Yuen, Kit-San|AU  - Yuen KS|AD  - 1School of Biomedical Sciences, The University of Hong Kong, 3/F Laboratory Block,         21 Sassoon Road, Pokfulam, Hong Kong. GRID: grid.194645.b. ISNI: 0000000121742757  
+
+PMID- 32134278|FAU - Ye, Zi-Wei|AU  - Ye ZW|AD  - 2Department of Microbiology, The University of Hong Kong, Pokfulam, Hong Kong. GRID:         grid.194645.b. ISNI: 0000000121742757  
+
+PMID- 32134278|FAU - Fung, Sin-Yee|AU  - Fung SY|AD  - 1School of Biomedical Sciences, The University of Hong Kong, 3/F Laboratory Block,         21 Sassoon Road, Pokfulam, Hong Kong. GRID: grid.194645.b. ISNI: 0000000121742757  
+
+PMID- 32134278|FAU - Chan, Chi-Ping|AU  - Chan CP|AD  - 1School of Biomedical Sciences, The University of Hong Kong, 3/F Laboratory Block,         21 Sassoon Road, Pokfulam, Hong Kong. GRID: grid.194645.b. ISNI: 0000000121742757  
+
+PMID- 32134278|FAU - Jin, Dong-Yan|AU  - Jin DY|AD  - 1School of Biomedical Sciences, The University of Hong Kong, 3/F Laboratory Block,         21 Sassoon Road, Pokfulam, Hong Kong. GRID: grid.194645.b. ISNI: 0000000121742757  PMID- 32234466
+
+PMID- 32134278|FAU - Li, Heng|AU  - Li H|AD  - Institute of Cardiovascular Disease, Key Laboratory for Arteriosclerology of Hunan         Province, Department of Intensive Care Unit, the First Affiliated Hospital of         University of South China, Medical Research Experiment Center, Hunan Province         Cooperative Innovation Center for Molecular Target New Drug Study, Hengyang Medical         College, University of South China, Hengyang, Hunan 421001, China.  
+
+PMID- 32134278|FAU - Liu, Shang-Ming|AU  - Liu SM|AD  - Institute of Cardiovascular Disease, Key Laboratory for Arteriosclerology of Hunan         Province, Department of Intensive Care Unit, the First Affiliated Hospital of         University of South China, Medical Research Experiment Center, Hunan Province         Cooperative Innovation Center for Molecular Target New Drug Study, Hengyang Medical         College, University of South China, Hengyang, Hunan 421001, China.  
+
+PMID- 32134278|FAU - Yu, Xiao-Hua|AU  - Yu XH|AD  - Institute of Clinical Medicine, The Second Affiliated Hospital of Hainan Medical         University, Haikou, Hainan 460106, China.  
+
+PMID- 32134278|FAU - Tang, Shi-Lin|AU  - Tang SL|AD  - Institute of Cardiovascular Disease, Key Laboratory for Arteriosclerology of Hunan         Province, Department of Intensive Care Unit, the First Affiliated Hospital of         University of South China, Medical Research Experiment Center, Hunan Province         Cooperative Innovation Center for Molecular Target New Drug Study, Hengyang Medical         College, University of South China, Hengyang, Hunan 421001, China. Electronic         address: 286756823@qq.com.  
+
+PMID- 32134278|FAU - Tang, Chao-Ke|AU  - Tang CK|AD  - Institute of Cardiovascular Disease, Key Laboratory for Arteriosclerology of Hunan         Province, Department of Intensive Care Unit, the First Affiliated Hospital of         University of South China, Medical Research Experiment Center, Hunan Province         Cooperative Innovation Center for Molecular Target New Drug Study, Hengyang Medical         College, University of South China, Hengyang, Hunan 421001, China. Electronic         address: tangchaoke@qq.com.  PMID- 32292590
+
+PMID- 32134278|FAU - Naserghandi, A|AU  - Naserghandi A|AD  - Shahid Beheshti University of Medical Sciences, Iran.  
+
+PMID- 32134278|FAU - Allameh, S F|AU  - Allameh SF|AD  - Tehran University of Medical Sciences, Iran.  
+
+PMID- 32134278|FAU - Saffarpour, R|AU  - Saffarpour R|AD  - Shahid Beheshti University of Medical Sciences, Iran.  PMID- 32188753
+
+PMID- 32134278|FAU - Weston, Stuart|AU  - Weston S|AD  - Department of Microbiology and Immunology, University of Maryland School of         Medicine, Baltimore, Maryland, USA.  
+
+PMID- 32134278|FAU - Frieman, Matthew B|AU  - Frieman MB|AD  - Department of Microbiology and Immunology, University of Maryland School of         Medicine, Baltimore, Maryland, USA mfrieman@som.umaryland.edu.  PMID- 32473642
+
+PMID- 32134278|FAU - Sharun, Khan|AU  - Sharun K|AD  - Division of Surgery, ICAR-Indian Veterinary Research Institute, Izatnagar, Bareilly,         243 122, Uttar Pradesh, India.  
+
+PMID- 32134278|FAU - Dhama, Kuldeep|AU  - Dhama K|AD  - Division of Pathology, ICAR-Indian Veterinary Research Institute, Izatnagar,         Bareilly, 243 122, Uttar Pradesh, India. kdhama@rediffmail.com.  
+
+PMID- 32134278|FAU - Patel, Shailesh Kumar|AU  - Patel SK|AD  - Division of Pathology, ICAR-Indian Veterinary Research Institute, Izatnagar,         Bareilly, 243 122, Uttar Pradesh, India.  
+
+PMID- 32134278|FAU - Pathak, Mamta|AU  - Pathak M|AD  - Division of Pathology, ICAR-Indian Veterinary Research Institute, Izatnagar,         Bareilly, 243 122, Uttar Pradesh, India.  
+
+PMID- 32134278|FAU - Tiwari, Ruchi|AU  - Tiwari R|AD  - Department of Veterinary Microbiology and Immunology, College of Veterinary         Sciences, UP Pandit Deen Dayal Upadhayay Pashu Chikitsa Vigyan Vishwavidyalay Evum         Go-Anusandhan Sansthan (DUVASU), Mathura, 281001, India.  
+
+PMID- 32134278|FAU - Singh, Bhoj Raj|AU  - Singh BR|AD  - Division of Epidemiology, ICAR-Indian Veterinary Research Institute, Izatnagar,         Bareilly, 243 122, Uttar Pradesh, India.  
+
+PMID- 32134278|FAU - Sah, Ranjit|AU  - Sah R|AD  - Department of Microbiology, Institute of Medicine, Tribhuvan University Teaching         Hospital, Kathmandu, Nepal.  
+
+PMID- 32134278|FAU - Bonilla-Aldana, D Katterine|AU  - Bonilla-Aldana DK|AD  - Semillero de Zoonosis, Grupo de Investigación BIOECOS, Fundación Universitaria         Autónoma de las Américas, Sede Pereira, Pereira, Risaralda, Colombia.  AD  - Public Health and Infection Research Group, Faculty of Health Sciences, Universidad         Tecnologica de Pereira, Pereira, Colombia.  
+
+PMID- 32134278|FAU - Rodriguez-Morales, Alfonso J|AU  - Rodriguez-Morales AJ|AD  - Public Health and Infection Research Group, Faculty of Health Sciences, Universidad         Tecnologica de Pereira, Pereira, Colombia. arodriguezm@utp.edu.co.  AD  - Faculty of Medicine, Grupo de Investigacion Biomedicina, Fundacion Universitaria         Autonoma de las Americas, Pereira, Risaralda, Colombia. arodriguezm@utp.edu.co.  
+
+PMID- 32134278|FAU - Leblebicioglu, Hakan|AU  - Leblebicioglu H|AD  - Department of Infectious Diseases, Samsun Liv Hospital, Samsun, Turkey.  PMID- 32609256
+
+PMID- 32134278|FAU - Oliveira, Beatriz Araujo|AU  - Oliveira BA|AD  - Universidade de São Paulo, Instituto de Medicina Tropical de São Paulo, Laboratório         de Investigação Médica (LIM 46), São Paulo, São Paulo, Brazil.  
+
+PMID- 32134278|FAU - Oliveira, Lea Campos de|AU  - Oliveira LC|AD  - Universidade de São Paulo, Instituto de Medicina Tropical de São Paulo, Laboratório         de Investigação Médica (LIM 46), São Paulo, São Paulo, Brazil.  
+
+PMID- 32134278|FAU - Sabino, Ester Cerdeira|AU  - Sabino EC|AD  - Universidade de São Paulo, Instituto de Medicina Tropical de São Paulo, Laboratório         de Investigação Médica (LIM 46), São Paulo, São Paulo, Brazil.  
+
+PMID- 32134278|FAU - Okay, Thelma Suely|AU  - Okay TS|AD  - Universidade de São Paulo, Instituto de Medicina Tropical de São Paulo, Laboratório         de Soroepidemiologia e Imunologia, São Paulo, São Paulo, Brazil.  PMID- 32283152
+
+PMID- 32134278|FAU - Ye, Qing|AU  - Ye Q|AD  - National Clinical Research Center for Child Health, National Children's Regional         Medical Center, the Children's Hospital, Zhejiang University School of Medicine, No         3333, Binsheng Road, Hangzhou 310052, China.  
+
+PMID- 32134278|FAU - Wang, Bili|AU  - Wang B|AD  - National Clinical Research Center for Child Health, National Children's Regional         Medical Center, the Children's Hospital, Zhejiang University School of Medicine, No         3333, Binsheng Road, Hangzhou 310052, China.  
+
+PMID- 32134278|FAU - Mao, Jianhua|AU  - Mao J|AD  - National Clinical Research Center for Child Health, National Children's Regional         Medical Center, the Children's Hospital, Zhejiang University School of Medicine, No         3333, Binsheng Road, Hangzhou 310052, China. Electronic address: maojh88@zju.edu.cn.  PMID- 32052514
+
+PMID- 32134278|FAU - Velavan, Thirumalaisamy P|AU  - Velavan TP|AD  - Institute of Tropical Medicine, Universitätsklinikum Tübingen, Germany.  AD  - Vietnamese German Center for Medical Research, Hanoi, Vietnam.  AD  - Faculty of Medicine, Duy Tan University, Da Nang, Vietnam.  
+
+PMID- 32134278|FAU - Meyer, Christian G|AU  - Meyer CG|AD  - Institute of Tropical Medicine, Universitätsklinikum Tübingen, Germany.  AD  - Vietnamese German Center for Medical Research, Hanoi, Vietnam.  AD  - Faculty of Medicine, Duy Tan University, Da Nang, Vietnam.  PMID- 32238757
+
+PMID- 32134278|FAU - Ahn, Dae-Gyun|AU  - Ahn DG|AD  - Center for Convergent Research of Emerging Virus Infection, Korea Research Institute         of Chemical Technology, Daejeon 34114, Republic of Korea.  
+
+PMID- 32134278|FAU - Shin, Hye-Jin|AU  - Shin HJ|AD  - Center for Convergent Research of Emerging Virus Infection, Korea Research Institute         of Chemical Technology, Daejeon 34114, Republic of Korea.  
+
+PMID- 32134278|FAU - Kim, Mi-Hwa|AU  - Kim MH|AD  - Center for Convergent Research of Emerging Virus Infection, Korea Research Institute         of Chemical Technology, Daejeon 34114, Republic of Korea.  AD  - Bioenvironmental Science and Toxicology Division, Gyeongnam Branch Institute, Korea         Institute of Toxicology, Jinju 52834, Republic of Korea.  
+
+PMID- 32134278|FAU - Lee, Sunhee|AU  - Lee S|AD  - Center for Convergent Research of Emerging Virus Infection, Korea Research Institute         of Chemical Technology, Daejeon 34114, Republic of Korea.  
+
+PMID- 32134278|FAU - Kim, Hae-Soo|AU  - Kim HS|AD  - Center for Convergent Research of Emerging Virus Infection, Korea Research Institute         of Chemical Technology, Daejeon 34114, Republic of Korea.  
+
+PMID- 32134278|FAU - Myoung, Jinjong|AU  - Myoung J|AD  - Korea Zoonosis Research Institute and Genetic Engineering Research Institute,         Jeonbuk National University, Jeollabuk-do 54896, Republic of Korea.  
+
+PMID- 32134278|FAU - Kim, Bum-Tae|AU  - Kim BT|AD  - Center for Convergent Research of Emerging Virus Infection, Korea Research Institute         of Chemical Technology, Daejeon 34114, Republic of Korea.  
+
+PMID- 32134278|FAU - Kim, Seong-Jun|AU  - Kim SJ|AD  - Center for Convergent Research of Emerging Virus Infection, Korea Research Institute         of Chemical Technology, Daejeon 34114, Republic of Korea.  PMID- 32104915
+
+PMID- 32134278|FAU - Li, Yan-Chao|AU  - Li YC|AD  - Department of Histology and Embryology, College of Basic Medical Sciences, Norman         Bethune College of Medicine, Jilin University, Changchun, Jilin, China.  
+
+PMID- 32134278|FAU - Bai, Wan-Zhu|AU  - Bai WZ|AD  - Institute of Acupuncture and Moxibustion, China Academy of Chinese Medical Science,         Beijing, China.  
+
+PMID- 32134278|FAU - Hashikawa, Tsutomu|AU  - Hashikawa T|AD  - Neural Architecture, Advanced Technology Development Group, RIKEN Brain Science         Institute, Saitama, Japan.  PMID- 32617354
+
+PMID- 32134278|FAU - Tung Ho, Carmen Lok|AU  - Tung Ho CL|AD  - Imperial College School of Medicine, Imperial College London, South Kensington,         London SW7 2AZ, United Kingdom.  
+
+PMID- 32134278|FAU - Oligbu, Peter|AU  - Oligbu P|AD  - University of Benin Teaching Hospital (UBTH), Benin City, Nigeria.  
+
+PMID- 32134278|FAU - Ojubolamo, Olakunle|AU  - Ojubolamo O|AD  - Department of Medicine, Queens Hospital, Romford, London.  
+
+PMID- 32134278|FAU - Pervaiz, Muhammad|AU  - Pervaiz M|AD  - Department of Paediatrics, Dumfries and Galloway, NHS Dumfries and Galloway,         Scotland, United Kingdom.  
+
+PMID- 32134278|FAU - Oligbu, Godwin|AU  - Oligbu G|AD  - Department of Paediatrics, Dr Gray's Hospital, NHS Grampian, Elgin, Scotland, United         Kingdom.  AD  - Paediatric Infectious Diseases Research Group, Institute for Infection and Immunity,         St. George's, University of London, United Kingdom.  PMID- 32798514
+
